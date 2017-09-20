@@ -1,0 +1,10 @@
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\bin\Release\COPYING
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\bin\Release\EthBalanceMonitor.exe.config
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\bin\Release\EthBalanceMonitor.exe
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\obj\Release\EthBalanceMonitor.csprojResolveAssemblyReference.cache
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\obj\Release\EthBalanceMonitor.frmMain.resources
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\obj\Release\EthBalanceMonitor.Properties.Resources.resources
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\obj\Release\EthBalanceMonitor.csproj.GenerateResource.Cache
+C:\Users\jorda\Documents\Visual Studio 2017\Projects\EthBalanceMonitor\EthBalanceMonitor\obj\Release\EthBalanceMonitor.exe

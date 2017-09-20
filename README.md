@@ -8,3 +8,6 @@ ETH addresses with TNT tokens that are acting as TNT nodes
 
 # Usage
 Put all ETH addresses into `addresses.txt` in the program binary folder. Run program.
+
+# Screenshot
+![Eth balance TNT monitor screenshot](https://i.imgur.com/dMbU6LQ.jpg)

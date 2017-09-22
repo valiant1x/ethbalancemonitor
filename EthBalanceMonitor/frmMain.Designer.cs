@@ -28,9 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.dgMain = new System.Windows.Forms.DataGridView();
-            this.tmrCheckBalance = new System.Windows.Forms.Timer(this.components);
             this.txtLog = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgMain)).BeginInit();
             this.SuspendLayout();
@@ -46,11 +44,6 @@
             this.dgMain.Size = new System.Drawing.Size(750, 570);
             this.dgMain.TabIndex = 0;
             this.dgMain.CellFormatting += new System.Windows.Forms.DataGridViewCellFormattingEventHandler(this.dgMain_CellFormatting);
-            // 
-            // tmrCheckBalance
-            // 
-            this.tmrCheckBalance.Enabled = true;
-            this.tmrCheckBalance.Tick += new System.EventHandler(this.tmrCheckBalance_Tick);
             // 
             // txtLog
             // 
@@ -86,7 +79,6 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dgMain;
-        private System.Windows.Forms.Timer tmrCheckBalance;
         private System.Windows.Forms.TextBox txtLog;
     }
 }

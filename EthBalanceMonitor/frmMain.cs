@@ -91,13 +91,6 @@ namespace EthBalanceMonitor
             var _ = CheckTokenBalance();
         }
 
-        private void tmrCheckBalance_Tick(object sender, EventArgs e)
-        {
-            if (tmrCheckBalance.Interval == 100)
-                tmrCheckBalance.Interval = 15000;
-
-        }
-
         async Task CheckTokenBalance()
         {
             while (true)
@@ -171,7 +164,7 @@ namespace EthBalanceMonitor
                 
                 dgMain.AutoResizeColumns();
 
-                await Task.Delay(wasFresh ? 500 : 15000);
+                await Task.Delay(wasFresh ? 15000 : 120000);
             }
         }
 
